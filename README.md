@@ -14,12 +14,12 @@ For now the main objective is create a very simple independent domain module tha
 
 # Ideias behind it
 
-- Keep focus on problem space instead solution space;
-- This is from solution space but totally focused in attends problem space rules;
-- The part of solution space that keeps people far from real business problem as the way you expose your application to the world, or where you store your data becomes to make senes in isolated context specific to talk about the solution;
-- Test MUST be yout friend here, use them to ensure the business requirements;
-- Keep your domain module ahead of your application component, it will make you think about the business befor think about where your application will be hospedated or where is your data, you dont need them to run your business rule;
-- Think about business rules as a independent engine that composes your achitecture;
+- Keep focus in problem space instead solution space;
+- The domain system come from solution space but totally focused to attends `problem space` requirements;
+- The solution space doubts that keep people far from real world business problems as "the way you expose your application to the world", or "where we will store our data" becomes to make sense in another isolated context that is specific to talk about the solution;
+- Tests MUST be your friends here, use them to ensure the business requirements;
+- Keep your domain module ahead of your application component, it will make you keep a space for business module in your product dicovery chain; think about the business before think about where your application will be hosted or where is your data, you dont need them to run your business rule;
+- Think about business rules system as a independent engine that composes your achitecture;
   
 
 # Ideia Version
